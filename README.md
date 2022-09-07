@@ -1,2 +1,3 @@
-# COBIT2019---Database-Resources
-MySQL schema dumping with the high level descripiton of COBIT2019 Governance and Management Objectives database, and some others resources.
+# COBIT (2019) - Database & Resources
+
+MySQL schema dumping with the high level descripiton of COBIT (2019) Governance and Management Objectives information, and some others resources.
